@@ -1,0 +1,2 @@
+MainPackage=F:\FernAkademie STUDIUM\FernAkademie Studium Heft projects\Selbstmade\Universal-Applications\Rechner_Universal_App\Rechner_Universal_App\bin\ARM\Release\Rechner_Universal_App_1.0.1.0_ARM.msix
+SymbolPackage=F:\FernAkademie STUDIUM\FernAkademie Studium Heft projects\Selbstmade\Universal-Applications\Rechner_Universal_App\Rechner_Universal_App\obj\ARM\Release\Symbols\Rechner_Universal_App_1.0.1.0_ARM.appxsym
